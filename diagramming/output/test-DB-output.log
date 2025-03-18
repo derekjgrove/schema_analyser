@@ -1,0 +1,12 @@
+erDiagram
+  test-Collection {
+    ObjectId _id PK ""
+    Date a  " UNDEFINED"
+    Array b  ""
+    Binary c  ""
+    Number d  ""
+    Binary e  ""
+    Date f  ""
+    Number g  ""
+    Binary h  ""
+  }
